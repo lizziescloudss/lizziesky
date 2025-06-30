@@ -7,7 +7,8 @@ body {
     max-width: 800px;
     margin: 0 auto;
     background-color: #debdff; 
-    justify: center;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 header{
